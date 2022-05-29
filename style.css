@@ -1,0 +1,146 @@
+.container{
+ background-image: url(h.jpg); 
+}
+.pl{
+ color: white;
+ margin-left: 10%;
+
+}
+.im{
+    margin-top: -10%;
+    margin-left: 5%;
+    
+}
+.wel{
+    color: white;
+    margin-left: 10%;
+    margin-top: 8%;
+}
+img{
+    margin-top: -10%;
+}
+.btn{
+    border: 2px solid;
+    border-radius: 500px;
+    width: 150px;
+    height: 40px;
+    color: white;
+    margin-left: 10%;
+    margin-top: 2%;
+    background-image:  url(h.jpg); 
+}
+.pic{
+    margin-left: 55%;
+    margin-top: -25%;
+}
+.the{
+    color: white;
+    margin-left: 10%;
+
+}
+.section1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+.w{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font: bold;
+    margin-top: -2%;
+    
+
+}
+.f{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: -2%;
+    color: #fae2e2;
+
+}
+.p1{
+    margin-top: 13.5%;
+    margin-left: 18%;
+}
+.p2{
+    margin-left: 50%;
+    margin-top: -35%;
+}
+.p2 button{
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      margin-top: 5%;
+      border-radius: 500px;
+      width: 120px;
+      height: 25px;
+      margin-right: -5%;
+      background-color: #60C336;
+
+  }  
+.section2{
+   
+    justify-content: center;
+    text-align: center;
+}
+.section2 h3{
+    margin-left: 5%;
+    margin-right: 80px;
+    color: #70D73E;
+
+  }
+.section2 h2{
+     margin-top: 2px;
+
+  }
+  .section2 p{
+    margin-top: 2px;
+    margin-right: 25px;
+
+  }
+  .Images{
+      margin-top: 12%;
+      margin-left: 28%;
+  }
+  .Images button{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    border-radius: 500px;
+    width: 120px;
+    height: 25px;
+    margin-left: 30%;
+    
+
+  }
+.section3{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+}
+.section4{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 5%;
+
+}
+.btt{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5%;
+    border-radius: 700px;
+    width: 200px;
+    height: 25px;
+    margin-top: 20%;
+    
+    
+    
+
+}
